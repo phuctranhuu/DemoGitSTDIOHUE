@@ -1,1 +1,2 @@
 ﻿đây là file vừa mới tạo. Gửi lên ở branch 'feature/featureA'
+Đây là gì vậy.
